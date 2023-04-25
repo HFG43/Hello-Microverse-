@@ -54,7 +54,7 @@ A first project to start learning best practices, including use of linters, gith
 <details>
   <summary>Style</summary>
   <ul>
-    <li><a href="#">CSS.js</a></li>
+    <li><a href="#">CSS</a></li>
   </ul>
 </details>
 
