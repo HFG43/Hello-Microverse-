@@ -91,7 +91,7 @@ Open on Visual Studio Code or any other code reader, and use an app as Live Serv
 
 Clone this repository to your desired folder:
 
-git clone @.github.com/HFG43/Hello-Microverse-/pull/1
+git clone https://github.com/HFG43/Hello-Microverse-
 
 ### Install
 
@@ -159,18 +159,6 @@ If you like this project, please Star it!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank my Code Reviewers!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
