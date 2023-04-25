@@ -36,15 +36,13 @@
 
 # 📖 [Hello Microverse project!] <a name="about-project"></a>
 
-> A first project to start learning best practices, including use of linters, github flow, and professional communication.
+A first project to start learning best practices, including use of linters, github flow, and professional communication.
 
 **[Hello Microverse!]** is a a test project as an starting point for practice.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -69,8 +67,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Linters]**
 - **[Professional-ReadMe]**
 
@@ -78,15 +74,11 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-No deployment available
+Not available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -99,17 +91,21 @@ Open on Visual Studio Code or any other code reader, and use an app as Live Serv
 
 Clone this repository to your desired folder:
 
-Clone with git
+git clone @.github.com/HFG43/Hello-Microverse-/pull/1
 
 ### Install
 
-Install this project with:
+Open index.html file with your Code Editor, and put your new desire text.
 
 ### Usage
 
 To run the project, execute the following command:
 
-Open index.html file on Visual Studio Code
+Run index.html on yor Web Browser to view changes.
+
+Example command on VSC: 
+Select your index.html file
+Run Open with Live Server.
 
 ### Run tests
 
@@ -128,8 +124,6 @@ No deployment available
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
  GitHub: [@githubhandle](https://github.com/HFG43)
@@ -141,10 +135,8 @@ No deployment available
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[dinamic_style]**
-
+**[dinamic_style]**
+**[deployment_link]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,23 +152,17 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, please Star it!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank my Code Reviewers!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
@@ -192,7 +178,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
