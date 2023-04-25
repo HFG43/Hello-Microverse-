@@ -126,7 +126,7 @@ No deployment available
 
 👤 **Author1**
 
- GitHub: [@githubhandle](https://github.com/HFG43)
+- GitHub: [@githubhandle](https://github.com/HFG43)
 - Twitter: [@twitterhandle](https://twitter.com/HFG_43)
 - LinkedIn: [LinkedIn](linkedin.com/in/hernán-güemes-a440591b)
 
